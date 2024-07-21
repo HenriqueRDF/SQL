@@ -1,5 +1,5 @@
 <span style="color:golden;">
-# 📚 Repositório de Estudos e Projetos de SQL <br> </span>
+# 📚 Repositório de Estudos e Projetos de SQL <br> </span> #
 Bem-vindo ao meu repositório de estudos, projetos e desafios realizados durante meu aprendizado de SQL. Este repositório foi criado para compartilhar meu progresso, aprendizado e aplicações práticas desenvolvidas ao longo do tempo.
 
 <span style="color:golden;">
@@ -16,14 +16,14 @@ O repositório está organizado da seguinte maneira:<br>
 <span style="color:purple;">🔬 Projetos</span>: Projetos independentes realizados para aprofundar o conhecimento e aplicar SQL em cenários do mundo real.<br><br>
 <span style="color:golden;">
 
-## 🛠️ Tecnologias Utilizadas <br>
+## 🛠️ Tecnologias Utilizadas <br> ##
 </span>
 Neste repositório, você encontrará trabalhos realizados com as seguintes tecnologias e ferramentas:<br>
-💾 **SQL**;<br>
-🐘 **PostgreSQL**;<br>
-🗃️ **pgAdmin**.<br>
+💾 **SQL; **<br>
+🐘 **PostgreSQL; **<br>
+🗃️ **pgAdmin. **<br>
 
 <span style="color:golden;">
-## 🤝 Como Contribuir <br>
+## 🤝 Como Contribuir <br> ##
   </span>
 Contribuições são bem-vindas! Se você tiver sugestões, melhorias ou quiser colaborar de alguma forma, sinta-se à vontade para abrir uma issue ou enviar um pull request.
